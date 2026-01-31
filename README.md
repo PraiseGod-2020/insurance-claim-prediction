@@ -1,4 +1,4 @@
-# Building Insurance Claim Prediction 
+regressionuilding Insurance Claim Prediction 
 
 ## Project Overview
 This project aims to predict the probability that a building will have at least one insurance claim during an insured period based on its characteristics.
@@ -32,4 +32,4 @@ This project aims to predict the probability that a building will have at least 
 4. Run all cells
 
 ## Author
-Obediah, PraiseGod Dick ressionogistic regression, 
+Obediah, PraiseGod Dick , 
