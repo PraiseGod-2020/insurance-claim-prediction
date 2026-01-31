@@ -32,4 +32,4 @@ This project aims to predict the probability that a building will have at least 
 4. Run all cells
 
 ## Author
-Obediah, PraiseGod Dick , 
+Obediah, PraiseGod Dick 
